@@ -1,0 +1,5 @@
+{
+  "name": "ChromaGen AI",
+  "description": "デザイナーのためのインテリジェントなカラーツール。Gemini AIを使用して、色の選択、コントラストの確認、調和のとれたパレットの生成を行います。",
+  "requestFramePermissions": []
+}
